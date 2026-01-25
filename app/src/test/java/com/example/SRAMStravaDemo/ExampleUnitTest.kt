@@ -1,4 +1,4 @@
-package com.example.sramstravademo
+package com.SRAMStravaDemo.com
 
 import org.junit.Test
 

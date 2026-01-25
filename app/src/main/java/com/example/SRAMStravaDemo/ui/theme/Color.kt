@@ -9,3 +9,8 @@ val Pink80 = Color(0xFFEFB8C8)
 val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
+
+val SramRed = Color(0xFFE30613)
+val SramDarkGray = Color(0xFF1A1A1A)
+val SramLightGray = Color(0xFF333333)
+val SramOffWhite = Color(0xFFF5F5F5)
