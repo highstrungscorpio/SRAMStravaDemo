@@ -15,9 +15,9 @@ import androidx.core.net.toUri
 
 class MainActivity : ComponentActivity() {
 
-    // NOTE: Hardcoding credentials for demo purposes to ensure the project runs out of the box
-    val STRAVA_CLIENT_ID="197824"
-    val STRAVA_CLIENT_SECRET="998ba805cb7d33de809629ec85df8e558303c96e"
+    // NOTE: invalid
+    val STRAVA_CLIENT_ID="11111"
+    val STRAVA_CLIENT_SECRET="11111"
 
     private var accessToken: String? = null
     private var athleteId: String? = null
